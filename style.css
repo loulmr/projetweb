@@ -1,0 +1,104 @@
+.banniere {
+	margin-right: 50px;
+}
+
+header {
+	text-align: center;
+	color: green;
+	background: linear-gradient(to bottom, darkgreen, white);
+	height: 450px;
+}
+
+header h1 {
+	margin:  auto;
+	width: 800px;
+	border-style: solid;
+	border-radius: 6px;
+	margin-top: 30px;
+	color: ivory;
+}
+
+body h1 {
+	text-align: center;
+}
+
+.titreAsso {
+	background: linear-gradient(to bottom, blue, skyblue);
+}
+
+.association {
+	width: 40%;
+	float: left;
+	margin-left: 100px;
+}
+
+.association p {
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 50px;
+}
+
+.association a {
+	margin-left: 100px;
+}
+
+h2 {
+	background: linear-gradient(to bottom right, darkgreen, ivory);
+	color: ivory;
+	text-decoration: none;
+	padding-left: 10px;
+	height: 50px;
+	line-height: 50px;
+	border-radius: 8px;
+}
+
+li {
+	list-style-type: none;
+}
+nav {
+	margin-top: 30px;
+}
+
+nav li {
+	list-style-type: none;
+	display: block;
+	float:  left;
+	position: relative;
+	border-style: solid;
+	text-decoration: none;
+	color: green;
+	margin-right: 60px;
+	margin-left: 125px;
+	margin-top: 25px;
+	padding: 10px;
+}
+
+nav li a {
+	list-style-type: none;
+	text-decoration: none;
+	color: green;
+	font-size: 1.5em;
+}
+
+nav li a:hover {
+	color: black;
+}
+
+.introduction {
+	float: left;
+	margin-top: 100px;
+}
+.rouge a{
+	color: red;
+	font-size: 1.2em;
+	border-style: solid;
+}
+
+footer {
+	margin: auto;
+	width: 500px;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+
